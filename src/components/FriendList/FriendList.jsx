@@ -1,4 +1,4 @@
-import css from './FriendList.moduled';
+import css from './FriendList.moduled.css';
 import PropTypes from 'prop-types';
 import { FriendListItem } from './FriendListItem';
 
